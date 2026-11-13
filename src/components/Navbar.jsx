@@ -13,7 +13,7 @@ export default function Navbar() {
         {/* High-Trust Direct Communication Button */}
         <div className="flex items-center gap-4">
           <a 
-            href="https://wa.me" 
+            href="https://wa.me/919870945257" 
             target="_blank" 
             rel="noreferrer" 
             className="bg-emerald-500/10 text-[#10B981] border border-emerald-500/20 px-5 py-2 rounded-xl text-xs font-bold uppercase tracking-wider hover:bg-[#10B981] hover:text-slate-900 transition-all duration-300"

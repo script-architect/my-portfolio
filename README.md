@@ -87,9 +87,10 @@ npm run dev
 
 ## 📡 INBOUND PROTOCOLS (SECURE COMMUNICATIONS)
 * **Email:** priyanshu.sre47016@gmail.com
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* **Secure Signal/WhatsApp:** [+91-9870945257](https://wa.me)
+* **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/priyanshu-s47)
+* **Secure Signal/WhatsApp:** [+91-9870945257](https://wa.me/919870945257)
 
 ```text
 // System Execution Verified // Production Infrastructure Operational //
 ```
+cd
