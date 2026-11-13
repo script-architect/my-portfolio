@@ -63,7 +63,7 @@ export default function Skills() {
           </div>
           <div className="flex flex-wrap justify-center gap-3 text-xs font-semibold">
             <a href="mailto:priyanshu.sre47016@gmail.com" className="bg-slate-900 border border-slate-800 px-4 py-2.5 rounded-xl text-slate-300 hover:text-[#10B981] transition-colors">Email</a>
-            <a href="https://linkedin.com/in/priyanshu-s47" target="_blank" rel="noreferrer" className="bg-slate-900 border border-slate-800 px-4 py-2.5 rounded-xl text-slate-300 hover:text-[#10B981] transition-colors">LinkedIn</a>
+            <a href="https://linkedin.com/in/priyanshu-s47/" target="_blank" rel="noreferrer" className="bg-slate-900 border border-slate-800 px-4 py-2.5 rounded-xl text-slate-300 hover:text-[#10B981] transition-colors">LinkedIn</a>
             <a href="https://wa.me/919870945257" target="_blank" rel="noreferrer" className="bg-[#10B981] text-slate-950 font-bold px-5 py-2.5 rounded-xl hover:bg-emerald-400 transition-colors">WhatsApp Direct</a>
           </div>
         </div>
